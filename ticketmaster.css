@@ -1,0 +1,33 @@
+.navbar-brand{
+    font-size: 70px;
+    color: ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   
+}
+
+/* .col-sm{
+    display: inline-block;
+    background-color: aquamarine;
+} */
+.col-12{
+    display: inline-block;
+}
+
+#opening-text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    color:gray;
+    max-width: 700px;
+}
+
+#submit{
+    height:30px;
+    width:200px;
+    position: relative;
+    font-size: 17px;
+   left:175px;
+   background-color: aqua;
+
+
+
+}
